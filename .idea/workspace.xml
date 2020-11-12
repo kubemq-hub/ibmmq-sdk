@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mq-golang/amqsvmha.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqbc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_aix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_darwin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_ppc64le.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_s390x.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqcfc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqpsc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqstrc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqxc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/cmqzc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiBO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBC.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCTLO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiDLH.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMHO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMPO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCNO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQGMO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQMD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQOD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQPMO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSCO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSD.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiPCF.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSRO.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSTS.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqiattrs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb_c.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/mqistr.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kCLNpJsJhlLc1tbnecbHzNEFVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="" />
+      <created>1605199590635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605199590635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1329" y="678" key="#Go_Modules" timestamp="1605199669003">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1329" y="678" key="#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605199669003" />
+  </component>
+</project>
