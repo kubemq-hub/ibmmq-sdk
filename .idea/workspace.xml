@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/amqsvmha.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqbc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqcfc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqec.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqpsc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqstrc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqxc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/cmqzc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/imqtype.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/libmqe_r.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/libmqm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/linux/libmqm_r.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/amqsvmha.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqbc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqcfc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqpsc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqstrc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqxc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/cmqzc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mq-golang/windows/mqm.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang/mqi.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,9 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="GoVcsConfiguration">
+    <option name="GO_FMT" value="false" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="gke_kubemq-public_us-central1-a_cluster-1" />
@@ -86,16 +86,26 @@
       <option name="project" value="LOCAL" />
       <updated>1605459398186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add linux files">
+      <created>1605461309145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605461309145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="add place holder for win" />
     <MESSAGE value="update windows files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update windows files" />
+    <MESSAGE value="add linux files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add linux files" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -105,18 +115,18 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1329" y="678" key="#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605199669003" />
-    <state x="557" y="0" key="CommitChangelistDialog2" timestamp="1605459397805">
+    <state x="557" y="0" key="CommitChangelistDialog2" timestamp="1605461308763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605459397805" />
+    <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605461308763" />
     <state x="697" y="139" key="RollbackChangesDialog" timestamp="1605455236466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605459401028">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605461310722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605459401028" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605461310722" />
     <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
