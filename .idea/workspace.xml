@@ -2,49 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mq-golang/amqsvmha.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqbc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_aix.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_darwin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_amd64.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_ppc64le.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_s390x.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_windows.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqcfc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqec.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqpsc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqstrc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqxc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqzc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiBO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBC.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBD.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCTLO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiDLH.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMHO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMPO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCD.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCNO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQGMO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQMD.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQOD.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQPMO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSCO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSD.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiPCF.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSRO.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSTS.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiattrs.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb_c.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mq-golang/mqistr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/amqsvmha.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqbc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqcfc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqec.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqpsc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqstrc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqxc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/cmqzc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang/mqi.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -53,12 +33,17 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_kubemq-public_us-central1-a_cluster-1" />
+    <option name="namespace" value="default" />
+  </component>
   <component name="ProjectId" id="1kCLNpJsJhlLc1tbnecbHzNEFVk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -83,10 +68,22 @@
       <option name="presentableId" value="Default" />
       <updated>1605199590635</updated>
     </task>
+    <task id="LOCAL-00001" summary="add place holder for win">
+      <created>1605456570000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605456570000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add place holder for win" />
+    <option name="LAST_COMMIT_MESSAGE" value="add place holder for win" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -96,5 +93,21 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1329" y="678" key="#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605199669003" />
+    <state x="557" y="0" key="CommitChangelistDialog2" timestamp="1605456569680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605456569680" />
+    <state x="697" y="139" key="RollbackChangesDialog" timestamp="1605455236466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605456571525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605456571525" />
+    <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="52" width="583" height="936" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605455853449" />
   </component>
 </project>
