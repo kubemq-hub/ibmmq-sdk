@@ -46,8 +46,8 @@ package mq_golang
 #cgo  windows      CFLAGS:  -I"C:/Program Files/IBM/MQ/Tools/c/include"
 #cgo !windows,!aix,!darwin LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
 #cgo darwin                LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
-#cgo aix                   LDFLAGS: -L/usr/mqm/lib64 -lmqm_r 
-#cgo windows               LDFLAGS: -L "C:/Program Files/IBM/MQ/bin64" -lmqm
+#cgo aix                   LDFLAGS: -L/usr/mqm/lib64 -lmqm_r
+#cgo windows               LDFLAGS: -L "./bin64" -lmqm
 
 #include <stdlib.h>
 #include <string.h>
