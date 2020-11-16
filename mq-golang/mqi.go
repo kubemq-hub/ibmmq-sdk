@@ -41,11 +41,11 @@ package mq_golang
 */
 
 /*
-#cgo !windows,!aix CFLAGS: -I./linux -D_REENTRANT
+#cgo !windows,!aix CFLAGS: -I/lib64 -D_REENTRANT
 #cgo  aix          CFLAGS: -I/usr/mqm/inc -D_REENTRANT
 #cgo  windows      CFLAGS:  -I"./windows"
 //#cgo !windows,!aix,!darwin LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
-#cgo !windows,!aix,!darwin LDFLAGS: -L./linux -lmqm_r -Wl,-rpath,./linux -Wl,-rpath,./linux
+#cgo !windows,!aix,!darwin LDFLAGS: -L~/lib64 -lmqm_r -Wl,-rpath,~/lib64 -Wl,-rpath,~/lib64
 #cgo darwin                LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
 //#cgo darwin                LDFLAGS: -L./linux -lmqm_r -Wl,-rpath,./linux -Wl,-rpath,./linux
 #cgo aix                   LDFLAGS: -L/usr/mqm/lib64 -lmqm_r
