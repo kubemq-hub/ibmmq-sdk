@@ -11,7 +11,7 @@ package mqjms
 
 import (
 	"github.com/kubemq-hub/ibmmq-sdk/mq-golang-jms20/jms20subset"
-	ibmmq "github.com/kubemq-hub/ibmmq-sdk/mq-golang"
+	ibmmq "github.com/kubemq-hub/ibmmq-sdk/ibmmq"
 	"strconv"
 )
 
