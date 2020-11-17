@@ -1,3 +1,4 @@
+
 /*  @(#) MQMBID sn=p920-L200709 su=_he1cUsHdEeqhru3bNhtEjw pn=include/amqsvmha.h */
  /********************************************************************/
  /*                                                                  */

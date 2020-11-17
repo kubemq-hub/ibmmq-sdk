@@ -41,7 +41,7 @@ package ibmmq
 */
 
 /*
-#cgo !windows,!aix CFLAGS: -I./linux -D_REENTRANT
+#cgo !windows,!aix CFLAGS: -I/opt/mqm/inc -D_REENTRANT
 #cgo  aix          CFLAGS: -I/usr/mqm/inc -D_REENTRANT
 #cgo  windows      CFLAGS:  -I"./" -D_WIN64
 //#cgo !windows,!aix,!darwin LDFLAGS: -L/lib64 -lmqm_r -Wl,-rpath,/lib64 -Wl,-rpath,/lib64
@@ -60,11 +60,13 @@ import "C"
 
 import (
 	"encoding/binary"
+	"github.com/kubemq-hub/ibmmq-sdk/ibmmq/linux"
 	"io"
 	"os"
 	"strings"
 	"unsafe"
 )
+var _ linux.Dummy
 
 /*
    This file contains the C wrappers, calling out to structure-specific
