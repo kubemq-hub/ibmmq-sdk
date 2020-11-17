@@ -43,12 +43,12 @@ package ibmmq
 /*
 #cgo !windows,!aix CFLAGS: -I./linux -D_REENTRANT
 #cgo  aix          CFLAGS: -I/usr/mqm/inc -D_REENTRANT
-#cgo  windows      CFLAGS:  -I"./windows" -D_WIN64
+#cgo  windows      CFLAGS:  -I"./" -D_WIN64
 //#cgo !windows,!aix,!darwin LDFLAGS: -L/lib64 -lmqm_r -Wl,-rpath,/lib64 -Wl,-rpath,/lib64
 #cgo !windows,!aix,!darwin LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
 #cgo darwin                LDFLAGS: -L/opt/mqm/lib64 -lmqm_r -Wl,-rpath,/opt/mqm/lib64 -Wl,-rpath,/usr/lib64
 #cgo aix                   LDFLAGS: -L/usr/mqm/lib64 -lmqm_r
-#cgo windows               LDFLAGS: -L "./windows" -lmqm
+#cgo windows               LDFLAGS: -L "./" -lmqm
 
 #include <stdlib.h>
 #include <string.h>
