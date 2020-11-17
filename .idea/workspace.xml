@@ -1,113 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Docker_builder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ibmmq/ibmmq_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ibmmq/windows/mqe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mqe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mqm.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/amqlcelp" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqlcelp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/amqlcelp_r" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqlcelp_r" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/amqmdnetstd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqmdnetstd.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/amqmxmsstd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqmxmsstd.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/amqsvmha.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqsvmha.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqbc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqbc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqcfc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqcfc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqec.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqec.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqpsc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqpsc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqstrc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqstrc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqxc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqxc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/cmqzc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/cmqzc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/imqtype.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/imqtype.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libcurl.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libcurl.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libedit.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libedit.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqb23gl.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqb23gl.so.4.1" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl.so.4.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqb23gl_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqb23gl_r.so.4.1" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl_r.so.4.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqc23gl.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqc23gl.so.4.1" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl.so.4.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqc23gl_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libimqc23gl_r.so.4.1" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl_r.so.4.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqcxa.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqcxa.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqcxa64.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqcxa64.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqcxa64_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqcxa64_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqcxa_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqcxa_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqdc.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqdc.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqdc_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqdc_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqe.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqe.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqe_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqe_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqecs.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqecs.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqecs_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqecs_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqic.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqic.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqic_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqic_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqicb.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqicb.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqicb_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqicb_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqiz.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqiz.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqiz_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqiz_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqjx_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqjx_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqjxx_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqjxx_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqm.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqm.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqm_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqm_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqmcs.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqmcs.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqmcs_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqmcs_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqmzse.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqmzse.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqxzu.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqxzu.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqxzu_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqxzu_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqz.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqz.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqz_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqz_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqzsd.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqzsd.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/lib64/libmqzsd_r.so" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/libmqzsd_r.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_aix.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_aix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_darwin.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_darwin.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_amd64.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_ppc64le.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_s390x.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/cmqc_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiBO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiBO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiCBC.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBC.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiCBD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiCTLO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCTLO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiDLH.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiDLH.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMHO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMHO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMPO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMPO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQCD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQCNO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCNO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQGMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQGMO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQMD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQMD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQOD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQOD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQPMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQPMO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQSCO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSCO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiMQSD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiPCF.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiPCF.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiSRO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSRO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiSTS.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSTS.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqiattrs.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiattrs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqicb.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqicb_c.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb_c.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/mqistr.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqistr.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/amqsvmha.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/amqsvmha.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqbc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqbc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqcfc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqcfc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqec.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqec.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqpsc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqpsc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqstrc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqstrc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqxc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqxc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/cmqzc.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/cmqzc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang/windows/mqm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/windows/mqm.dll" afterDir="false" />
-    </list>
+    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605515187768</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update to linux">
+      <created>1605645663591</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605645663591</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +157,8 @@
     <MESSAGE value="add place holder for win" />
     <MESSAGE value="update windows files" />
     <MESSAGE value="add linux files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add linux files" />
+    <MESSAGE value="update to linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to linux" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -270,10 +172,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605641295014" />
-    <state x="557" y="0" key="CommitChangelistDialog2" timestamp="1605515187163">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605645661357">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515187163" />
+    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605645661357" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1605626549858">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -298,10 +201,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1605515189091">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605645665357">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515189091" />
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605645665357" />
     <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -310,10 +214,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605641650272" />
-    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605629749432">
+    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605645604013">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="682" y="415" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605516517389" />
-    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605629749432" />
+    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605645604013" />
   </component>
 </project>
