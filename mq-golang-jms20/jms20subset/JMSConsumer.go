@@ -7,7 +7,7 @@
 //
 // SPDX-License-Identifier: EPL-2.0
 
-//
+//nolint
 package jms20subset
 
 // JMSConsumer provides the ability for an application to receive messages

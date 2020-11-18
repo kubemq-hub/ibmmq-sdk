@@ -7,7 +7,7 @@
 //
 // SPDX-License-Identifier: EPL-2.0
 
-//
+//nolint
 package jms20subset
 
 // TextMessage is used to send a message containing a string.

@@ -7,7 +7,7 @@
 //
 // SPDX-License-Identifier: EPL-2.0
 
-//
+//nolint
 package jms20subset
 
 // JMSException represents an interface for returning details of a

@@ -7,6 +7,7 @@
 // SPDX-License-Identifier: EPL-2.0
 
 // Implementation of the JMS style Golang interfaces to communicate with IBM MQ.
+//nolint
 package mqjms
 
 // Used to configure the TransportType property of the ConnectionFactory,

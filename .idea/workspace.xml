@@ -2,11 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinuxX64.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_aix.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_aix.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_darwin.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_darwin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_amd64.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_ppc64le.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_s390x.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_windows.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/ibmmq_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/ibmmq_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ibmmq/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiBO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiBO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCBC.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBC.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCBD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBD.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCTLO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCTLO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiDLH.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiDLH.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMHO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMHO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMPO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMPO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQCD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCD.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQCNO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCNO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQGMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQGMO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQMD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQMD.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQOD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQOD.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQPMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQPMO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQSCO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSCO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQSD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSD.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiPCF.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiPCF.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiSRO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSRO.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiSTS.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSTS.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqiattrs.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiattrs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqicb.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqicb_c.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb_c.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqistr.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqistr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/ConnectionFactory.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/ConnectionFactory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/DeliveryMode.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/DeliveryMode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Destination.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Destination.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSConsumer.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSConsumer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSContext.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSContext.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSException.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSException.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSProducer.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSProducer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Message.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Message.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Queue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/TextMessage.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/TextMessage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/Constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/Constants.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/FactoryFactory.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/FactoryFactory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/QueueImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/QueueImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605690790209</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update release with README.md">
+      <created>1605692601513</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605692601513</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +255,8 @@
     <MESSAGE value="update to linux" />
     <MESSAGE value="remove windows dll" />
     <MESSAGE value="update windows" />
-    <option name="LAST_COMMIT_MESSAGE" value="update windows" />
+    <MESSAGE value="update release with README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update release with README.md" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -218,11 +270,15 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605649021313" />
-    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605690789831">
+    <state x="873" y="397" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605693228208">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="397" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605693228208" />
+    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605692600801">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515187163" />
-    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605690789831" />
+    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605692600801" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1605646993439">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -247,11 +303,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605690792303">
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605692603278">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515189091" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605690792303" />
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605692603278" />
     <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

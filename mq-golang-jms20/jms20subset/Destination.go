@@ -8,6 +8,7 @@
 // SPDX-License-Identifier: EPL-2.0
 
 //
+//nolint
 package jms20subset
 
 // Destination encapsulates a provider-specific address, which is typically

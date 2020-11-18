@@ -7,7 +7,7 @@
 //
 // SPDX-License-Identifier: EPL-2.0
 
-//
+//nolint
 package jms20subset
 
 // Queue encapsulates a provider-specific queue name through which an

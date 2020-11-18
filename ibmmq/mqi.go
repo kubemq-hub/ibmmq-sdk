@@ -1,3 +1,4 @@
+
 /*
 Package ibmmq provides a wrapper to the IBM MQ procedural interface (the MQI).
 
@@ -19,6 +20,7 @@ If you use a non-default path for the installation, you can set
 environment variables CGO_CFLAGS and CGO_LDFLAGS to reference those
 directories.
 */
+//nolint
 package ibmmq
 
 /*

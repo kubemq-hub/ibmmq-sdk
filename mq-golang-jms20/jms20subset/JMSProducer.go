@@ -7,7 +7,7 @@
 //
 // SPDX-License-Identifier: EPL-2.0
 
-//
+//nolint
 package jms20subset
 
 // JMSProducer is a simple object used to send messages on behalf of a

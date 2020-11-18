@@ -1,5 +1,5 @@
 // +build go1.13
-
+//nolint
 package ibmmq
 
 /*

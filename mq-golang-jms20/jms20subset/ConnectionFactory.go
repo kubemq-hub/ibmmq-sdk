@@ -8,6 +8,7 @@
 // SPDX-License-Identifier: EPL-2.0
 
 // Interfaces for messaging applications in the style of the Java Message Service (JMS) API.
+//nolint
 package jms20subset
 
 // ConnectionFactory defines a Golang interface which provides similar

@@ -8,6 +8,7 @@
 // SPDX-License-Identifier: EPL-2.0
 
 //
+//nolint
 package jms20subset
 
 // Go doesn't allow constants in structs so the naming of this file is only for
