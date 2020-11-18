@@ -1,13 +1,11 @@
 package main
 
 import (
-	"fmt"
 	"github.com/kubemq-hub/ibmmq-sdk/mq-golang-jms20/mqjms"
 	"log"
 )
 
 func main() {
-	fmt.Println("SAddsa")
 	cf := mqjms.ConnectionFactoryImpl{
 		QMName:           "QM1",
 		Hostname:         "localhost",

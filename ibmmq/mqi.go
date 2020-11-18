@@ -67,6 +67,7 @@ import (
 	"strings"
 	"unsafe"
 )
+// this is dummy var in order that go mod vendor will includes the linux and the windows folders
 var _ linux.Dummy
 var _ windows.Dummy
 /*

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="" />
+    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LinuxX64.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ibmmq/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +46,21 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../poc/ibmmq-sdk-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ibmmq/windows" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang-jms20" />
+      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\ibmmq\windows" />
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\ibmmq" />
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk" />
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang\windows" />
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang-jms20" />
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
     </key>
   </component>
@@ -167,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605650203269</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="remove windows dll">
+      <created>1605690566067</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605690566067</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update windows">
+      <created>1605690790209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605690790209</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +202,9 @@
     <MESSAGE value="add linux files" />
     <MESSAGE value="update to windows" />
     <MESSAGE value="update to linux" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to linux" />
+    <MESSAGE value="remove windows dll" />
+    <MESSAGE value="update windows" />
+    <option name="LAST_COMMIT_MESSAGE" value="update windows" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -195,11 +218,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605649021313" />
-    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605650202583">
+    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605690789831">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515187163" />
-    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605650202583" />
+    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605690789831" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1605646993439">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -224,11 +247,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605650204919">
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605690792303">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515189091" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605650204919" />
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605690792303" />
     <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
