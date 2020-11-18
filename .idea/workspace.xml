@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ibmmq/linux/dummy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/install-linux.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/amqlcelp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/amqlcelp_r" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/amqmdnetstd.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/amqmxmsstd.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/amqsvmha.h" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/linux/amqsvmha.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libcurl.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libedit.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl.so.4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqb23gl_r.so.4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl.so.4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libimqc23gl_r.so.4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqcxa.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqcxa64.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqcxa64_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqcxa_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqdc.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqdc_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqe.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqe_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqecs.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqecs_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqic.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqic_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqicb.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqicb_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqiz.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqiz_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqjx_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqjxx_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqm.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqm_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqmcs.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqmcs_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqmzse.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqxzu.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqxzu_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqz.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqz_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqzsd.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/linux/libmqzsd_r.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqi.go" afterDir="false" />
-    </list>
+    <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605646296929</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update to linux">
+      <created>1605650203269</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605650203269</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,9 +179,9 @@
     <MESSAGE value="add place holder for win" />
     <MESSAGE value="update windows files" />
     <MESSAGE value="add linux files" />
-    <MESSAGE value="update to linux" />
     <MESSAGE value="update to windows" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to windows" />
+    <MESSAGE value="update to linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to linux" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -237,11 +195,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605649021313" />
-    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605646296491">
+    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605650202583">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515187163" />
-    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605646296491" />
+    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605650202583" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1605646993439">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -266,11 +224,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605646298526">
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605650204919">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515189091" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605646298526" />
+    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605650204919" />
     <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
