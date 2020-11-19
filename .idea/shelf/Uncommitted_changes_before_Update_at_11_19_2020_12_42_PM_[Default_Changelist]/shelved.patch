@@ -1,0 +1,110 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4145ac6b-b843-4c34-963f-527e7bd956d0\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/amqsvmha.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqbc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_aix.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_darwin.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_linux_amd64.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_linux_ppc64le.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_linux_s390x.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqc_windows.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqcfc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqec.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqpsc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqstrc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqxc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/cmqzc.h\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqi.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiBO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiCBC.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiCBD.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiCTLO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiDLH.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMHO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMPO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQCD.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQCNO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQGMO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQMD.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQOD.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQPMO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQSCO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiMQSD.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiPCF.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiSRO.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiSTS.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqiattrs.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqicb.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqicb_c.go\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/mq-golang/mqistr.go\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"GOROOT\" path=\"C:\\Go\" />\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GoLibraries\">\r\n    <option name=\"indexEntireGoPath\" value=\"false\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1kCLNpJsJhlLc1tbnecbHzNEFVk\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"go.import.settings.migrated\" value=\"true\" />\r\n    <property name=\"go.sdk.automatically.set\" value=\"true\" />\r\n    <property name=\"go.tried.to.enable.integration.vgo.integrator\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\Development\\bitbucket\\go\\projects\\kubemq-hub\\ibmmq-sdk\\mq-golang\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4145ac6b-b843-4c34-963f-527e7bd956d0\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605199590635</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605199590635</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VgoProject\">\r\n    <integration-enabled>true</integration-enabled>\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1329\" y=\"678\" key=\"#Go_Modules\" timestamp=\"1605199669003\">\r\n      <screen x=\"0\" y=\"0\" width=\"3072\" height=\"1688\" />\r\n    </state>\r\n    <state x=\"1329\" y=\"678\" key=\"#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688\" timestamp=\"1605199669003\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 418ebe727e4e5e7dae8f3a5d49e1465a032299bd)
++++ .idea/workspace.xml	(date 1605201983757)
+@@ -2,44 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/mq-golang/amqsvmha.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqbc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_aix.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_darwin.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_amd64.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_ppc64le.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_linux_s390x.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqc_windows.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqcfc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqec.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqpsc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqstrc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqxc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/cmqzc.h" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqi.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiBO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBC.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCBD.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiCTLO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiDLH.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMHO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMPO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCD.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQCNO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQGMO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQMD.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQOD.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQPMO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSCO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiMQSD.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiPCF.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSRO.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiSTS.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqiattrs.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqicb_c.go" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/mq-golang/mqistr.go" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -52,6 +15,9 @@
+   </component>
+   <component name="GoLibraries">
+     <option name="indexEntireGoPath" value="false" />
++  </component>
++  <component name="GoVcsConfiguration">
++    <option name="GO_FMT" value="false" />
+   </component>
+   <component name="ProjectId" id="1kCLNpJsJhlLc1tbnecbHzNEFVk" />
+   <component name="ProjectViewState">
+@@ -83,11 +49,25 @@
+       <option name="presentableId" value="Default" />
+       <updated>1605199590635</updated>
+     </task>
++    <task id="LOCAL-00001" summary="init">
++      <created>1605200212241</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1605200212241</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
++    <option name="CHECK_NEW_TODO" value="false" />
++    <MESSAGE value="init" />
++    <option name="LAST_COMMIT_MESSAGE" value="init" />
++  </component>
+   <component name="VgoProject">
+     <integration-enabled>true</integration-enabled>
+   </component>
+@@ -96,5 +76,17 @@
+       <screen x="0" y="0" width="3072" height="1688" />
+     </state>
+     <state x="1329" y="678" key="#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605199669003" />
++    <state x="997" y="347" key="CommitChangelistDialog2" timestamp="1605200211578">
++      <screen x="0" y="0" width="3072" height="1688" />
++    </state>
++    <state x="997" y="347" key="CommitChangelistDialog2/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605200211578" />
++    <state x="1129" y="577" key="Vcs.Push.Dialog.v2" timestamp="1605200213487">
++      <screen x="0" y="0" width="3072" height="1688" />
++    </state>
++    <state x="1129" y="577" key="Vcs.Push.Dialog.v2/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605200213487" />
++    <state x="1226" y="539" width="619" height="634" key="find.popup" timestamp="1605200108186">
++      <screen x="0" y="0" width="3072" height="1688" />
++    </state>
++    <state x="1226" y="539" width="619" height="634" key="find.popup/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605200108186" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -2,67 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4145ac6b-b843-4c34-963f-527e7bd956d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_aix.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_aix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_darwin.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_darwin.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_amd64.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_amd64.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_ppc64le.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_ppc64le.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_linux_s390x.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_linux_s390x.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/cmqc_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/cmqc_windows.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/ibmmq_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/ibmmq_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqi.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiBO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiBO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCBC.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBC.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCBD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCBD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiCTLO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiCTLO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiDLH.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiDLH.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMHO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMHO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMPO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMPO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQCD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQCNO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQCNO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQGMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQGMO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQMD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQMD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQOD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQOD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQPMO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQPMO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQSCO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSCO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiMQSD.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiMQSD.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiPCF.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiPCF.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiSRO.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSRO.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiSTS.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiSTS.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqiattrs.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqiattrs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqicb.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqicb_c.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqicb_c.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibmmq/mqistr.go" beforeDir="false" afterPath="$PROJECT_DIR$/ibmmq/mqistr.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/ConnectionFactory.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/ConnectionFactory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/DeliveryMode.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/DeliveryMode.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Destination.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Destination.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSConsumer.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSConsumer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSContext.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSContext.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSException.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSException.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSProducer.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/JMSProducer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Message.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Message.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/Queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/TextMessage.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/jms20subset/TextMessage.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConnectionFactoryImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/Constants.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/Constants.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ConsumerImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ContextImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/FactoryFactory.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/FactoryFactory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/ProducerImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/QueueImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/QueueImpl.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" beforeDir="false" afterPath="$PROJECT_DIR$/mq-golang-jms20/mqjms/TextMessageImpl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install-linux.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install-linux.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-      </list>
-    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -71,73 +18,29 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
-  <component name="GoVcsConfiguration">
-    <option name="GO_FMT" value="false" />
-  </component>
-  <component name="KubernetesApiPersistence">
-    <option name="context" value="gke_kubemq-public_us-central1-a_cluster-1" />
-    <option name="namespace" value="default" />
-  </component>
   <component name="ProjectId" id="1kCLNpJsJhlLc1tbnecbHzNEFVk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ibmmq/windows" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang-jms20" />
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\ibmmq\windows" />
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\ibmmq" />
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk" />
-      <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang\windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Development\bitbucket\go\projects\kubemq-hub\ibmmq-sdk\mq-golang" />
     </key>
-  </component>
-  <component name="RunManager" selected="Docker.Dockerfile">
-    <configuration name="go build github.com/kubemq-hub/ibmmq-sdk" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="ibmmq-sdk" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="github.com/kubemq-hub/ibmmq-sdk" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
-      <deployment type="dockerfile">
-        <settings>
-          <option name="imageTag" value="" />
-          <option name="buildCliOptions" value="" />
-          <option name="command" value="" />
-          <option name="containerName" value="" />
-          <option name="entrypoint" value="" />
-          <option name="commandLineOptions" value="" />
-          <option name="sourceFilePath" value="Dockerfile" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Docker.Dockerfile" />
-        <item itemvalue="Go Build.go build github.com/kubemq-hub/ibmmq-sdk" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -148,115 +51,10 @@
       <option name="presentableId" value="Default" />
       <updated>1605199590635</updated>
     </task>
-    <task id="LOCAL-00001" summary="add place holder for win">
-      <created>1605456570000</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1605456570000</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update windows files">
-      <created>1605459398186</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605459398186</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add linux files">
-      <created>1605461309145</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1605461309145</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add linux files">
-      <created>1605462232649</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1605462232649</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add linux files">
-      <created>1605463858057</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1605463858057</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add linux files">
-      <created>1605515187768</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1605515187768</updated>
-    </task>
-    <task id="LOCAL-00007" summary="update to linux">
-      <created>1605645663591</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1605645663591</updated>
-    </task>
-    <task id="LOCAL-00008" summary="update to windows">
-      <created>1605645947087</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1605645947087</updated>
-    </task>
-    <task id="LOCAL-00009" summary="update to windows">
-      <created>1605646296929</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1605646296929</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update to linux">
-      <created>1605650203269</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1605650203269</updated>
-    </task>
-    <task id="LOCAL-00011" summary="remove windows dll">
-      <created>1605690566067</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1605690566067</updated>
-    </task>
-    <task id="LOCAL-00012" summary="update windows">
-      <created>1605690790209</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1605690790209</updated>
-    </task>
-    <task id="LOCAL-00013" summary="update release with README.md">
-      <created>1605692601513</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1605692601513</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="add place holder for win" />
-    <MESSAGE value="update windows files" />
-    <MESSAGE value="add linux files" />
-    <MESSAGE value="update to windows" />
-    <MESSAGE value="update to linux" />
-    <MESSAGE value="remove windows dll" />
-    <MESSAGE value="update windows" />
-    <MESSAGE value="update release with README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update release with README.md" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -266,60 +64,5 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1329" y="678" key="#Go_Modules/0.-2160.1920.1055/0.0.3072.1688/3840.1.2560.1400@0.0.3072.1688" timestamp="1605199669003" />
-    <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605649021313">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1027" y="491" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1605649021313" />
-    <state x="873" y="397" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605693228208">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="873" y="397" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605693228208" />
-    <state x="743" y="0" key="CommitChangelistDialog2" timestamp="1605692600801">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="557" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515187163" />
-    <state x="743" y="0" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1605692600801" />
-    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1605646993439">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1605646993439" />
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1605626876169">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605626876169" />
-    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1605626876169">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605626876169" />
-    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1605626876169">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605626876169" />
-    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1605626876169">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605626876169" />
-    <state x="697" y="139" key="RollbackChangesDialog" timestamp="1605455236466">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="697" y="139" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455236466" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2" timestamp="1605692603278">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605515189091" />
-    <state x="736" y="335" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605692603278" />
-    <state x="668" y="52" width="583" height="936" key="find.popup" timestamp="1605455853449">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="52" width="583" height="936" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605455853449" />
-    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1605641650272">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1605641650272" />
-    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605645604013">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="682" y="415" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605516517389" />
-    <state x="909" y="559" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605645604013" />
   </component>
 </project>
